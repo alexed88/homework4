@@ -1,0 +1,11 @@
+@media screen and (min-width: 0px) and (max-width: 1200px) {
+  .cont {
+    flex-direction: column;
+  }
+  .cont1 {
+ width: 600px; height: 400px;
+  }
+  .cont2 {
+    width: 600px;
+  }
+}
